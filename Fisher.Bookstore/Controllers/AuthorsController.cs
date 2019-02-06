@@ -1,5 +1,6 @@
 using System;
 using Microsoft.AspNetCore.Mvc;
+using Fisher.Bookstore.Models;
 
 namespace Fisher.Bookstore.Controllers
 {
